@@ -2,7 +2,7 @@
 
 Welcome to **HTN WebWallet**, a web-based wallet solution developed by **Hoosat Oy**. This project enables users to manage their cryptocurrencies seamlessly and securely.
 
-Requires connetion to localhost mainnet nodeand listens to HTTP on 3080 after running webwallet by default.
+Requires connetion to localhost mainnet node and listens to HTTP on 3080 after running webwallet by default.
 
 ## Table of Contents
 
