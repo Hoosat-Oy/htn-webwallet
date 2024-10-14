@@ -40,7 +40,18 @@ This command ensures that you have the latest code for all sub-projects right fr
 
 ## Setup
 
-After cloning the repository and updating the submodules, follow the setup instructions specific to each submodule. For detailed setup or running instructions, please refer to the main `README.md` in each submodule.
+If you want to use the bash script for running, run the commands:
+```bash
+chmod +x build-run.sh
+./build-run.sh
+``` 
+
+If you want to use docker for running, run the commands:
+```bash
+sudo docker build -t htn-webwallet .
+sudo docker run --network host -d htn-webwallet
+```
+
 
 ## Contributing
 
