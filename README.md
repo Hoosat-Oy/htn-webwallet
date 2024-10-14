@@ -21,10 +21,10 @@ To get started with the project, follow these steps:
 
 ### 1. Clone the Main Repository
 
-Begin by cloning the main repository:
+Begin by cloning the main repository and the submodules recursively:
 
 ```bash
-git clone https://github.com/Hoosat-Oy/htn-webwallet.git
+ git clone --recursive https://github.com/Hoosat-Oy/htn-webwallet.git
 ```
 
 ### 2. Initialize Submodules
@@ -32,35 +32,8 @@ git clone https://github.com/Hoosat-Oy/htn-webwallet.git
 Navigate into the project directory:
 
 ```bash
-cd htn-webwallet
-```
+git submodule update --init --recursive
 
-Then, initialize the submodules:
-
-```bash
-git submodule init
-```
-
-### 3. Update Submodules
-
-To pull and update all submodules, run:
-
-```bash
-git submodule update
-```
-
-Alternatively, if you prefer to fetch and checkout the submodules in one step, you can use:
-
-```bash
-git submodule update --remote
-```
-
-### Optional: Clone with Submodules in One Command
-
-If you want to streamline the process, you can clone the repository and its submodules in one command:
-
-```bash
-git clone --recurse-submodules https://github.com/Hoosat-Oy/htn-webwallet.git
 ```
 
 This command ensures that you have the latest code for all sub-projects right from the start.
