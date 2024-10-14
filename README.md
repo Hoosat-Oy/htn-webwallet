@@ -52,6 +52,8 @@ sudo docker build -t htn-webwallet .
 sudo docker run --network host -d htn-webwallet
 ```
 
+Then browse to `https://localhost:3080`, with your preferred browser on the machine that you are running the webwallet. Otherwise do webserver routing with NGINX for example.
+
 
 ## Contributing
 
