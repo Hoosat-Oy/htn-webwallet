@@ -1,15 +1,15 @@
 [submodule "htn-core-lib"]
-	path = htn-core-lib
-	url = /path/to/htn-core-lib
+    path = htn-core-lib
+    url = https://github.com/hoosat-oy/htn-core-lib.git
 [submodule "htn-wallet"]
-	path = htn-wallet
-	url = /path/to/htn-wallet
+    path = htn-wallet
+    url = https://github.com/hoosat-oy/htn-wallet.git
 [submodule "htn-wallet-worker"]
-	path = htn-wallet-worker
-	url = /path/to/htn-wallet-worker
+    path = htn-wallet-worker
+    url = https://github.com/hoosat-oy/htn-wallet-worker.git
 [submodule "htn-ux"]
-	path = htn-ux
-	url = /path/to/htn-ux
+    path = htn-ux
+    url = https://github.com/hoosat-oy/htn-ux.git
 [submodule "htn-pwa-wallet"]
-	path = htn-pwa-wallet
-	url = /path/to/htn-pwa-wallet
+    path = htn-pwa-wallet
+    url = https://github.com/hoosat-oy/htn-pwa-wallet.git
