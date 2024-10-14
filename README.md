@@ -77,11 +77,3 @@ We welcome contributions! Please review our contribution guidelines in `CONTRIBU
 
 --- 
 
-### Key Improvements Made:
-
-1. **Structure**: Added a table of contents for easy navigation.
-2. **Clarity**: Enhanced clarity with concise language and logical steps.
-3. **Emphasis**: Used formatting to highlight important terms and commands.
-4. **Inviting Tone**: Made the tone more welcoming to encourage contributions.
-
-Feel free to adjust any sections or details to better match your project's specifics!
