@@ -1,7 +1,3 @@
-Here’s a refined version of your README, enhancing clarity, structure, and user experience:
-
----
-
 # HTN WebWallet
 
 Welcome to **HTN WebWallet**, a web-based wallet solution developed by **Hoosat Oy**. This project enables users to manage their cryptocurrencies seamlessly and securely.
