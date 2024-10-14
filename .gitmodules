@@ -1,0 +1,15 @@
+[submodule "htn-core-lib"]
+	path = htn-core-lib
+	url = /path/to/htn-core-lib
+[submodule "htn-wallet"]
+	path = htn-wallet
+	url = /path/to/htn-wallet
+[submodule "htn-wallet-worker"]
+	path = htn-wallet-worker
+	url = /path/to/htn-wallet-worker
+[submodule "htn-ux"]
+	path = htn-ux
+	url = /path/to/htn-ux
+[submodule "htn-pwa-wallet"]
+	path = htn-pwa-wallet
+	url = /path/to/htn-pwa-wallet
